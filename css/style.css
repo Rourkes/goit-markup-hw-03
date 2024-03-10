@@ -129,10 +129,10 @@ color: #434455;
 /***********  HEAD ***********/
 .section-head {
     background-color:#2e2f42;
-}
-.section-head-box {
     padding-top: 188px;
     padding-bottom: 188px;
+}
+.section-head-box {
 }
 .header-container {
 
@@ -263,8 +263,8 @@ color: #434455;
 }
 /***************** PORTFOLIO******************/
 .portfolio {
-    margin-top: 124px;
-    margin-bottom: 120px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 .portfolio-header {
     font-weight: 700;
