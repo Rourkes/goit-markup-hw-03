@@ -44,12 +44,12 @@ address{
 /***********  HEADER ***********/
 .header {
     font-family: "Raleway", sans-serif;
+    border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    border-bottom: 1px solid #e7e9fc
 }
 .header-navigation {
     flex-grow: 1;
@@ -132,8 +132,6 @@ color: #434455;
     padding-top: 188px;
     padding-bottom: 188px;
 }
-.section-head-box {
-}
 .header-container {
 
 }
@@ -162,6 +160,8 @@ border-radius: 4px;
 padding: 16px 32px;
 gap: 10px;
 border: none;
+min-width: 169px;
+height: 56px;
 }
 .section-head-button:hover {
     background-color: #404BBF;
@@ -258,8 +258,9 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
-.team-box {
-
+.team-box-1 {
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 /***************** PORTFOLIO******************/
 .portfolio {
