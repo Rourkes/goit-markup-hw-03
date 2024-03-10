@@ -178,7 +178,7 @@ height: 56px;
     display: flex;
     gap: 24px;
 }
-.section-wcwd-list-1 {
+.section-wcwd-list-one {
     width: calc((100% - 24px * 4) / 3);
 }
 .section-wcwd-h {
@@ -257,7 +257,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
-.team-box-1 {
+.team-box-one {
     padding-top: 32px;
     padding-bottom: 32px;
 }
